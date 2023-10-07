@@ -11,6 +11,6 @@ I Mean Do you want to save your mind?
 
 I am not promoting anyone. I am a student, this is where I am
 
-You may also want some details of the form to be filled in automatically so you can use **AUTO FILL** which is a web component i.e. extension
+You may also want some details of the form to be filled in automatically so you can use __AUTO FILL__ which is a web component i.e. extension
 
 You can save all the details in it and you can also give them short-cut keys.```
